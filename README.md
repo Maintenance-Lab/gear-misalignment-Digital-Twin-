@@ -3,4 +3,4 @@ Code and models for the gear misalignment Digital Twin
 
 # main_DigitalTwin.py 
 
-![main process](/repository/assets/flowchart.png)
+![main process](/assets/flowchart.png)
