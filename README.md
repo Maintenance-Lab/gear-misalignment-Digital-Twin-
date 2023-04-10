@@ -26,6 +26,6 @@ Predictions of the model on the dataset (not actively correcting the position)
 # calobrating the motors 
 The motors are calibrated by hand, the values found are in the calibration_motor.py scripts if there is a problem with the calibration of the motors (motors exit its control mode or jittering) run the calibration scripts. If this doesn't work follow Odrives instructions on calibrating the motors ( https://docs.odriverobotics.com/v/0.5.4/control.html )
 
-# training of the ai is done 
+# training of the ai
 the ai's are train using Fast.ai and TSAI the first script to train and the loop used for the research. 
 
