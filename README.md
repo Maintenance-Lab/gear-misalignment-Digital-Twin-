@@ -15,7 +15,8 @@ There is also an import folder for the W&B for the ai.
     │   ├──export.pkl                                   <- first TSAI model for predicting 600 samples                                  
     ├── tsai_loop_V1_local.ipynb                        <- loop to train and save multiple models                
     ├── tsai_V1_local.ipynb                             <- training a model and visualising data 
-
+    CAD files                
+    ├── 
 # flow shart for main_DigitalTwin.py 
 ![main process](/assets/flowchart.png)
 
